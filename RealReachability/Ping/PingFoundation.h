@@ -56,6 +56,7 @@
 #endif
 
 #include <AssertMacros.h>
+#import <sys/_types/_sa_family_t.h>
 
 #pragma mark * PingFoundation
 
